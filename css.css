@@ -1,0 +1,568 @@
+.sayfa1{
+border-style: solid;
+background-color:darkslategrey;
+border-width: 5px;
+border-color: darkslategrey;
+height: 50px;
+width: 92px;
+float: left;
+position:relative ;
+top: 10px;
+font-size: 11px;
+
+}
+#sayfanınenaltı{
+border-color:gray;
+background-color: gray;
+
+border-width: 1px;
+ height: 500px;   
+width: 100%;
+position: relative;
+left: 0px;
+top: 150px;
+}
+.yazı1{
+position: relative;
+left: 70px;
+}
+.syfaaltduzen{
+position: relative;
+left: 70px;
+
+}
+.syfaaltduzen2{
+position: relative;
+left: 70px;
+
+}
+.altyazısyf{
+position: relative;
+left: 700px;
+bottom: 285px;
+
+}
+.eklem{
+position: relative;
+left: 700px;
+bottom: 260px;
+}
+.onaylabutonu{
+position: relative;
+left: 305px;
+bottom: 225px;
+}
+.temizlebutonu{
+ position: relative;
+left: 333px;
+bottom: 225px;
+}
+a{
+    text-decoration: none;
+
+}
+.sayfa1:hover{
+    background-color: black;
+   
+}
+.sayfa1:hover a{
+    color: blue;
+}
+a{
+
+color: azure;
+}
+body{
+    
+background-color:gainsboro;
+
+}
+div{
+border-style: solid;
+ 
+border-color:brown;
+width: 600px;
+min-height: 330px;
+height: 400px;
+border-width: 8px;
+float: left;
+/* position: fixed; */
+position: relative;
+left: 50px;
+top: 80px;
+
+
+}
+#foto{
+
+background-image:url(https://ar-files.s3.eu-central-1.amazonaws.com/s3fs-public/fkgbjb0wyai7ngs.jpg);
+background-size: 700px 400px;
+transition: 0.5s;
+
+}
+#foto:hover{
+    transform: scale(1.1);
+    z-index: 5;
+}
+#video{
+ border-style: solid;  
+ border-radius: 3px;
+ margin: 1px;
+ transition: 0.5s;
+
+
+}
+#video:hover{
+    transform: scale(1.05);
+    z-index: 5;
+}
+#harita{
+    border-style: solid;
+    border-radius: 20px;
+   border-color:red;
+   width: 1300px;
+   min-height: 330px;
+   height: 300px;
+   border-width: 8px;
+   
+   position:relative; 
+   
+   left: 7px;
+   top: 260px;
+   background-image:url(../arayuz/foto2.jpg) ;
+   background-size: 500px 370px;
+  
+}
+.idari{
+border-style: solid;
+border-color: brown;
+height: 50px;
+width: 1300px;
+float: left;
+position: relative;
+left: 5px;
+top: 10px;
+background-color: burlywood;
+text-align: center;
+}
+#yazı1{
+position:relative;
+left: 7px;
+top: 250px;
+width: 1300px;
+font-size: 70px;
+color: green;
+}
+h2{
+left: 15px;
+
+}
+img{
+
+width: 100px;
+height: 100px;
+}
+#atlasresim{
+    width: 350px;
+height: 300px;
+float: left;
+position: relative;
+left: 300px;
+}
+#atlasresım2{
+    width: 350px;
+    height: 300px;
+    position: relative;
+left: 400px;
+
+}
+#atlasyazı{
+color: red;
+font-size: 20px;
+
+}
+#atlasyazı2{
+color: blueviolet;
+font-size: 20px;
+
+}
+#atlasnedır{
+color: blue;
+text-align: center;
+}
+.atlasresım{
+width: 400px;
+height: 400px;
+float: left;
+
+
+}
+.atlasyazı1{
+position: relative;
+
+
+}
+.atlasresım2{
+width: 200px;
+height: 400px;
+position: relative;
+left: 100px;
+}
+.atlasresım3{
+width: 400px;
+height: 400px;
+position: relative;
+left: 200px;
+}
+.link{
+color: purple;
+}
+.ilkdünyahrt1{
+width: 500px;
+height: 400px;
+position: relative;
+left: 130px;
+}
+.ilkdünyahrt2{
+width: 500px;
+height: 400px;
+position: relative;
+left: 200px;
+}
+.ilkdünyahrt3{
+width: 500px;
+height: 400px;
+position: relative;
+left: 400px;
+}
+.ilkdünyahrt4{
+    width: 400px;
+    height: 400px;
+    position: relative; 
+    left: 400px;
+}
+.ilkdünyahrt5{
+width: 400px;
+height: 400px;
+position: relative;
+left: 400px;
+}
+.yazıiçiufakdetay{
+background-color: red;   
+}
+.turkatlasresim{
+width: 1000px;
+height: 500px;
+position: relative;
+left: 170px;
+}
+.turkatlasresim2{
+width: 1000px;
+height: 500px;
+position: relative;
+left: 170px;
+}
+.turkatlasresim3{
+width: 1000px;
+height: 500px;
+position: relative;
+left: 170px;
+}
+.turkatlasresim4{
+    width: 1000px;
+height: 500px;
+position: relative;
+left: 170px;
+}
+.turkatlasresim5{
+    width: 1000px;
+height: 500px;
+position: relative;
+left: 170px;
+}
+.hrtüretim{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    float: left;
+    left: 180px;
+}
+.hrtüretim2{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+}
+.hrtüretim3{
+width: 500px;
+height: 400px;
+position: relative;
+left: 400px;
+}
+.sayısalhrt{
+ width: 300px;
+ height: 300px;
+ position: relative;
+ left: 450px;   
+}
+.sayısalhrt2{
+    width: 1300px;
+ height: 300px;
+ position: relative;
+ left: 15px;
+ 
+}
+.hrtgizli1{
+  color: green;  
+}
+.gizlihrt1{
+    width: 300px;
+ height: 300px;
+ position: relative;
+ left: 250px;   
+}
+.gizlihrt2{width: 300px;
+    height: 300px;
+    position: relative;
+    left: 450px;   }
+   .eartfoto{
+    width: 1330px;
+    height: 300px;
+   }
+   .eartfoto2{
+    width: 630px;
+    height: 300px;
+    
+   }
+   .eartfoto3{
+    width: 630px;
+    height: 300px;
+    
+    
+   }
+   .gpsfoto{
+    width: 400px;
+ height: 300px;
+ position: relative;
+ left: 240px;
+}
+.gspfoto2{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 350px; 
+}
+.gpsfoto3{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 250px; 
+}
+.gpsfoto4{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 350px;  
+}
+.deklinasyonfoto1{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 180px;
+
+}
+.deklinasyonfoto2{
+    width: 400px;
+    height: 300px;
+    position: relative;
+  left: 300px;
+
+}
+.deklinasyonfoto3{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 180px;}
+
+.deklinasyonfoto4{
+    width: 400px;
+    height: 300px;
+    position: relative;
+  left: 300px;
+}
+.pırıreısfoto{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 90px;
+}
+.pırıreısfoto2{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+}
+.pırıreısfoto3{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+
+}
+.pırıreısosmanlıfoto1{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+
+}
+.pırıreısosmanlıfoto2{
+
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+}
+.pırıreısosmanlıfoto3{
+    width: 1328px;
+    height: 300px;
+    position: relative;
+}
+.pırıreısdenizfoto1{
+
+    width: 1008px;
+    height: 700px;
+    position: relative;
+left: 150px;
+}
+.krıstofkolombfoto1{
+    width: 400px;
+    height: 500px;
+    position: relative;
+left: 150px;
+}
+.krıstofkolombfoto2{
+    width: 400px;
+ height: 500px;
+    position: relative;
+left: 350px;
+}
+.crıstofhayatfoto1{
+    width: 400px;
+    height: 500px;
+       position: relative;
+   left:150px;
+}
+.crıstofhayatfoto2{
+    width: 400px;
+    height: 500px;
+       position: relative;
+   left: 300px;
+
+}
+.pırıreısolumresim1{
+    width: 1200px;
+    height: 500px;
+    position: relative;
+    left: 80px;
+}
+.pırıreısolumresim2{
+
+    width: 400px;
+    height: 500px;
+       position: relative;
+   left:150px;
+}
+.pırıreısolumresim3{
+
+ width: 400px;
+    height: 500px;
+       position: relative;
+   left: 300px;
+
+}
+.pırıreıspopularresim1{
+width: 250px;
+height: 250px;
+margin: auto;
+float:left;
+}
+.pırıreıspopularyazısolakaydır{
+position: relative;
+left: 20px;
+top: 2px;
+}
+.pırıreıspopularyazısağakaydır{
+float: right;
+width: 250px;
+height: 250px;
+}
+.komutanresim1{
+ float: right; 
+width: 250px;
+height: 250px;
+}
+.büyükatlasresmi{
+width: 500px;
+height: 500px;
+
+}
+.dünyacocukatlasyazı{
+position: relative;
+left: 800px;
+top: -570px;
+}
+.büyükatlasresmi2{
+position: relative;
+    width: 500px;
+height: 500px;
+top: -565px;
+left: 800px;
+}
+.enes{
+width: 500px;
+height: 500px;
+float: left;
+
+}
+.enes2{
+float: left;
+}
+.enes3{
+float: right;
+}
+.enes8{
+width: 500px;
+height: 500px;
+float: left;
+}
+.enes9{
+width: 500px;
+height: 500px;
+float: right;
+}
+.enes11{
+ width: 1200px;
+ height: 500px;   
+ position: relative;
+ left: 40px;
+} 
+.enes12{
+ width: 150px;
+height: 150px;
+float: left;
+ } 
+.enes99{
+ width: 500px;
+ height: 500px;
+float: left;
+position: relative;
+left: 50px;   
+}  
+.enes100{
+ width: 500px;
+ height: 500px;
+ position: relative;
+ left: 200px;
+}    
+
