@@ -74,8 +74,8 @@ color: azure;
 }
 body{
     
-background-color: black;
-min-height: 700px;
+background-color:gainsboro;
+
 }
 div{
 border-style: solid;
@@ -95,15 +95,26 @@ top: 80px;
 }
 #foto{
 
-background-image:url(../arayuz/foto1.jpg);
+background-image:url(https://ar-files.s3.eu-central-1.amazonaws.com/s3fs-public/fkgbjb0wyai7ngs.jpg);
 background-size: 700px 400px;
+transition: 0.5s;
+
+}
+#foto:hover{
+    transform: scale(1.1);
+    z-index: 5;
 }
 #video{
  border-style: solid;  
  border-radius: 3px;
  margin: 1px;
+ transition: 0.5s;
 
 
+}
+#video:hover{
+    transform: scale(1.05);
+    z-index: 5;
 }
 #harita{
     border-style: solid;
@@ -118,7 +129,7 @@ background-size: 700px 400px;
    
    left: 7px;
    top: 260px;
-   background-image:url(../arayuz/foto3.jpg) ;
+   background-image:url(../arayuz/foto2.jpg) ;
    background-size: 500px 370px;
   
 }
@@ -449,16 +460,109 @@ left: 350px;
    left: 300px;
 
 }
+.pırıreısolumresim1{
+    width: 1200px;
+    height: 500px;
+    position: relative;
+    left: 80px;
+}
+.pırıreısolumresim2{
 
+    width: 400px;
+    height: 500px;
+       position: relative;
+   left:150px;
+}
+.pırıreısolumresim3{
 
+ width: 400px;
+    height: 500px;
+       position: relative;
+   left: 300px;
 
+}
+.pırıreıspopularresim1{
+width: 250px;
+height: 250px;
+margin: auto;
+float:left;
+}
+.pırıreıspopularyazısolakaydır{
+position: relative;
+left: 20px;
+top: 2px;
+}
+.pırıreıspopularyazısağakaydır{
+float: right;
+width: 250px;
+height: 250px;
+}
+.komutanresim1{
+ float: right; 
+width: 250px;
+height: 250px;
+}
+.büyükatlasresmi{
+width: 500px;
+height: 500px;
 
+}
+.dünyacocukatlasyazı{
+position: relative;
+left: 800px;
+top: -570px;
+}
+.büyükatlasresmi2{
+position: relative;
+    width: 500px;
+height: 500px;
+top: -565px;
+left: 800px;
+}
+.enes{
+width: 500px;
+height: 500px;
+float: left;
 
-
-
-
-  
-  
-    
-    
+}
+.enes2{
+float: left;
+}
+.enes3{
+float: right;
+}
+.enes8{
+width: 500px;
+height: 500px;
+float: left;
+}
+.enes9{
+width: 500px;
+height: 500px;
+float: right;
+}
+.enes11{
+ width: 1200px;
+ height: 500px;   
+ position: relative;
+ left: 40px;
+} 
+.enes12{
+ width: 150px;
+height: 150px;
+float: left;
+ } 
+.enes99{
+ width: 500px;
+ height: 500px;
+float: left;
+position: relative;
+left: 50px;   
+}  
+.enes100{
+ width: 500px;
+ height: 500px;
+ position: relative;
+ left: 200px;
+}    
 
