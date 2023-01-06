@@ -566,3 +566,11 @@ left: 50px;
  left: 200px;
 }    
 
+@media only screen and (max-width: 1000px) {
+ 
+    body{
+        background-color: rgb(221, 87, 87);
+    }
+
+
+}
